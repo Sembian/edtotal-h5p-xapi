@@ -15,7 +15,7 @@
  * Plugin Name:       EDTOTAL H5P XPI
  * Plugin URI:        http://edchunk.com/sandbox
  * Description:       Allows you to track rich interactive content on your WordPress site.
- * Version:           1.0.0
+ * Version:           0.1.0
  * Author:            Adam Spindell
  * Author URI:        http://edchunk.com
  * Text Domain:       edtotal h5P XPI
@@ -24,5 +24,6 @@
  * Domain Path:       /languages
  * GitHub Plugin URI: https://github.com/Sembian/edtotal-h5p-xpi.git
  */
+
 
 // If this file is called directly, abort.
