@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fdf52c23-1eef-47cf-8baf-899011cc22be" name="EDCHUNK-EDTOTAL-H5P-XAPI" url="http://edchunk.com">
+        <fileTransfer host="edchunk.com" port="21" rootFolder="/public_html/sandbox/wp-content/plugins/edtotal-h5p-xpi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
